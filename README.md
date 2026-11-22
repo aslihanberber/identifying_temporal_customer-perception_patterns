@@ -33,9 +33,9 @@ The notebook is the primary version of the analysis and is intended to be run in
 
 ## Project Folder Structure
 
-The shared Google Drive project folder is organized approximately as follows:
+The project folder is organized approximately as follows:
 
-'''
+```
 TUM_thesis_digital_marketing/
 ├── README.md
 ├── aslihanberber_03798114_master_thesis_digital_marketing.ipynb
@@ -53,7 +53,7 @@ TUM_thesis_digital_marketing/
 │       └── selected category-diverse image files/folder
 └── processed/
     └── intermediate and final datasets generated during the analysis
-'''
+```
 
 The `raw` folder contains the original Yelp dataset archives together with the extracted files used by the notebook.
 
